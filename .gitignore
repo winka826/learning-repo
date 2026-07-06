@@ -1,0 +1,7 @@
+# Build results
+bin/
+obj/
+
+# VS Code
+.vscode/
+# Note: You can commit .vscode/tasks.json or launch.json if they are shared with the team
